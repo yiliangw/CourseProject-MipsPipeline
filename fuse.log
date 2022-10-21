@@ -1,0 +1,44 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Administrator/Desktop/P6/PipelineCPU/mips_tb_isim_beh.exe" -prj "C:/Users/Administrator/Desktop/P6/PipelineCPU/mips_tb_beh.prj" "work.mips_tb" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v" into library work
+Analyzing Verilog file "C:/Users/Administrator/Desktop/P6/PipelineCPU/mips_tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:327 - "IM.v" Line 11: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "IM.v" Line 12: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "DM.v" Line 17: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "DM.v" Line 18: Concatenation with unsized literal; will interpret as 32 bits
+Completed static elaboration
+Compiling module PC
+Compiling module MUXPCNPC
+Compiling module IM
+Compiling module CTRL
+Compiling module PipelineReg
+Compiling module DForward
+Compiling module GRF
+Compiling module EXT
+Compiling module EQU
+Compiling module NPC
+Compiling module EForward
+Compiling module MUXALUA
+Compiling module MUXALUB
+Compiling module ALU
+Compiling module MD
+Compiling module MForward
+Compiling module DM
+Compiling module WriteInfGenerator
+Compiling module WriteInf
+Compiling module StallCTRL
+Compiling module StallActor
+Compiling module mips
+Compiling module mips_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 17 sub-compilation(s) to finish...
+Compiled 24 Verilog Units
+Built simulation executable C:/Users/Administrator/Desktop/P6/PipelineCPU/mips_tb_isim_beh.exe
+Fuse Memory Usage: 32068 KB
+Fuse CPU Usage: 718 ms

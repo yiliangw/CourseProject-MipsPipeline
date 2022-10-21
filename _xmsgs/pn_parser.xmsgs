@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/PC.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">PC.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;PC.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">4</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/IM.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 4
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">IM.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;IM.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">5</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/PipelineReg.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 5
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">PipelineReg.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;PipelineReg.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">PipelineReg.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/CTRL.v&apos; in file &quot;PipelineReg.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">CTRL.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;CTRL.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">6</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/MUX.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 6
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">MUX.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;MUX.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">7</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/NPC.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 7
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">NPC.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;NPC.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">8</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/GRF.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 8
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">GRF.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;GRF.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">9</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/EXT.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 9
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">EXT.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;EXT.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">10</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/DForward.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 10
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">DForward.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;DForward.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">11</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/EQU.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 11
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">EQU.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;EQU.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">12</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/EForward.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 12
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">EForward.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;EForward.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">13</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/ALU.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 13
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">ALU.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;ALU.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">14</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/MD.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 14
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">MD.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;MD.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">15</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/MForward.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 15
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">MForward.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;MForward.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">16</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/DM.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 16
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">DM.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;DM.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">17</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/WriteInfGenerator.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 17
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">WriteInfGenerator.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;WriteInfGenerator.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">18</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/WriteInf.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 18
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">WriteInf.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;WriteInf.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">19</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/StallCTRL.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 19
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">StallCTRL.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;StallCTRL.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v</arg>&quot; Line <arg fmt="%d" index="2">20</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/StallActor.v&apos; in file &quot;C:/Users/Administrator/Desktop/P6/PipelineCPU/mips.v&quot; line 20
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">StallActor.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/Administrator/Desktop/P6/PipelineCPU/head.v&apos; in file &quot;StallActor.v&quot; line 2
+</arg>
+</msg>
+
+</messages>
+
